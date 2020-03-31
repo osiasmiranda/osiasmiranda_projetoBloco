@@ -1,0 +1,17 @@
+[
+  {
+    "id": "praiaCopacabana",
+    "nome": "Praia de Copacabana",
+    "img": [
+      {
+        "foto1": "assets/img/local/praiaCopacabana/foto1.jpg",
+        "foto2": "assets/img/local/praiaCopacabana/foto2.jpg",
+        "foto3": "assets/img/local/praiaCopacabana/foto3.jpg",
+        "foto4": "assets/img/local/praiaCopacabana/foto4.jpg",
+        "foto5": "assets/img/local/praiaCopacabana/foto5.jpg",
+        "foto6": "assets/img/local/praiaCopacabana/foto6.jpg",
+        "foto7": "assets/img/local/praiaCopacabana/foto7.jpg"
+      }
+    ]
+  }
+]
